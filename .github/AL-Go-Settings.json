@@ -1,0 +1,7 @@
+{
+  "templateUrl": "https://github.com/businesscentralapps/tmpVhCeGV-AppSource@main",
+  "type": "AppSource App",
+  "useCompilerFolder": false,
+  "MicrosoftTelemetryConnectionString": "",
+  "doNotPublishApps": false
+}
